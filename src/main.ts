@@ -3,6 +3,9 @@
  * Simple starter template - customize to your heart's content!
  */
 
+//small comment
+//small comment2 testig live share
+
 console.log("🎮 CMPM 121 - Starting...");
 
 // Simple counter for demonstration
